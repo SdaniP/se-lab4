@@ -1,0 +1,4 @@
+# Create a ship with stocked torpedo stores that never fail
+#a GT4500 torpedóival lehet tüzelni ALL módban
+GT4500,10,0,10,0
+TORPEDO,ALL  # should have fired from the primary store
